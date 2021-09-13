@@ -14,7 +14,7 @@ button {
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
   cursor: pointer;
 }
 
@@ -281,6 +281,7 @@ a:hover {
 .row.row-no-gutters > [class*=" col-"] {
   padding-right: 0;
   padding-left: 0;
+  margin-bottom: 50px;
 }
 
 #bloc-1-hero h1 {
